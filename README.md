@@ -11,7 +11,7 @@ C#也有與Golang作用相似的Channel([System.Threading.Channels](https://devb
 
 本倉庫的代碼只是概念驗證(或可說是許願清單)，著重在Channel使用的簡化，
 
-~~並未對效能方面進行任何驗證，~~請勿用於生產環境！
+~~並未對效能方面進行任何驗證~~請勿用於生產環境！
 
 (P.S.:以BenchmarkDotNet測量，吞吐效能下降約1/3。)
 
