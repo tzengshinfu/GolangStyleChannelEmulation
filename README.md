@@ -13,7 +13,7 @@ C#也有與Golang作用相似的Channel([System.Threading.Channels](https://devb
 
 ~~並未對效能方面進行任何驗證~~請勿用於生產環境！
 
-(P.S.:以BenchmarkDotNet測量，吞吐效能下降約1/3。)
+(P.S.:以BenchmarkDotNet測量，吞吐效能下降至原本約1/3。)
 
 &nbsp;
 
